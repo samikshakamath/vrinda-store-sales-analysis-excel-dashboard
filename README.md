@@ -1,5 +1,7 @@
 # Vrinda Store Sales Analysis Dashboard – Microsoft Excel
+## Dashboard Preview
 
+![Vrinda Store Sales Analysis Dashboard](vrinda-store-sales-dashboard.png)
 ## Project Overview
 This project focuses on the **analysis of retail sales performance for Vrinda Store** using Microsoft Excel. The objective was to transform raw transactional data into a **clean, structured, and analysis-ready dataset**, and subsequently develop an **interactive dashboard** to derive actionable business insights.
 
